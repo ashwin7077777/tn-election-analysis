@@ -72,6 +72,5 @@ I'm learning SQL and this is one of my early projects. I made it beginner-friend
 
 ```
 
----
 
 
