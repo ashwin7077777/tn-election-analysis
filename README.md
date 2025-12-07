@@ -67,10 +67,3 @@ I wanted to improve my SQL basics using a real dataset. Working with election da
 ## 🙋‍♂️ About Me
 
 I'm learning SQL and this is one of my early projects. I made it beginner-friendly so others learning SQL can understand and try running the queries too.
-
----
-
-```
-
-
-
