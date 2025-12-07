@@ -1,4 +1,3 @@
-
 # 🗳️ Tamil Nadu Election Analysis (Basic SQL Project)
 
 This project is a beginner-level SQL analysis of the 2021 Tamil Nadu state election results. Using MySQL, I explored the dataset to understand how candidates performed, which parties had strong presence, and what patterns can be observed based on gender, age, and vote margins.
